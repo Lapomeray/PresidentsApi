@@ -105,4 +105,21 @@
             <li><a href="https://go.microsoft.com/fwlink/?LinkID=398609">Publish to Microsoft Azure Web Apps</a></li>
         </ul>
     </div>
+    
+              <div id="body">
+        <ul id="contacts"></ul>
+    </div>
+            
+            
 </div>
+
+
+@section scripts{
+<script type="text/javascript">$(function() {
+        $.getJSON('/api/presidents/namesAscending', function(contactsJsonPayload) {
+            $(contactsJsonPayload).each(function(i, item) {
+                $('#contacts').append('<li>' + item.name + '</li>');
+            });
+        });
+});</script>
+}
