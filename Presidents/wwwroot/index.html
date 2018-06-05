@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <script type="text/javascript" src="main.js"></script>
+        <meta charset="utf-8" />
+        <title></title>
+    </head>
+    <body>
+
+        <p>Hello There!!!k!!</p>
+
+        <div ng-app="App" ng-controller="DataController">
+            <table>
+                <thead>
+                    <tr style="font-weight: bold">
+                        <th align="left" width="50">ID</th>
+                        <th align="left" width="215">Name</th>
+                        <th align="left" width="200">Party</th>
+                        <th align="left">Term</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="p in presidents">
+                        <td>{{p.id}}</td>
+                        <td>{{p.nm}}</td>
+                        <td>{{p.pp}}</td>
+                        <td>{{p.tm}}</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+    </body>
+</html>

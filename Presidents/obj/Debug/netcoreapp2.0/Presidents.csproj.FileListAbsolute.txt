@@ -1,0 +1,22 @@
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.csprojResolveAssemblyReference.cache
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.csproj.CoreCompileInputs.cache
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.AssemblyInfoInputs.cache
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.AssemblyInfo.cs
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.deps.json
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.runtimeconfig.json
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.runtimeconfig.dev.json
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.dll
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.pdb
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.dll
+/Users/brandon/Desktop/Code Projects/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.pdb
+/Applications/MAMP/htdocs/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.deps.json
+/Applications/MAMP/htdocs/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.runtimeconfig.json
+/Applications/MAMP/htdocs/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.runtimeconfig.dev.json
+/Applications/MAMP/htdocs/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.dll
+/Applications/MAMP/htdocs/Presidents/Presidents/bin/Debug/netcoreapp2.0/Presidents.pdb
+/Applications/MAMP/htdocs/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.csprojResolveAssemblyReference.cache
+/Applications/MAMP/htdocs/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.csproj.CoreCompileInputs.cache
+/Applications/MAMP/htdocs/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.AssemblyInfo.cs
+/Applications/MAMP/htdocs/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.dll
+/Applications/MAMP/htdocs/Presidents/Presidents/obj/Debug/netcoreapp2.0/Presidents.pdb
