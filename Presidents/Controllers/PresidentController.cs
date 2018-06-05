@@ -123,21 +123,21 @@ namespace Presidents.Controllers
         // GET: api/values
 
         // All Names
-        [HttpGet("/api/allNames", Name = "allNames")]
+        [HttpGet("/api/presidents/allNames", Name = "allNames")]
         public IList<President> AllPresidents()
         {
             return presidentList;
         }
 
         // Ascending Names
-        [HttpGet("/api/namesAscending", Name = "namesAscending")]
+        [HttpGet("/api/presidents/namesAscending", Name = "namesAscending")]
         public IOrderedEnumerable<President> PresidentNameAscending()
         {
             return presidentList.OrderBy(value => value.Name);
         }
 
         // Descending Names
-        [HttpGet("/api/namesDescending", Name = "namesDescending")]
+        [HttpGet("/api/presidents/namesDescending", Name = "namesDescending")]
         public IOrderedEnumerable<President> PresidentNameDescending()
         {
             return presidentList.OrderByDescending(value => value.Name);
