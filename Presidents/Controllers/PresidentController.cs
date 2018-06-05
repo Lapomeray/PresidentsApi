@@ -112,18 +112,11 @@ namespace Presidents.Controllers
             };
 
 
-        [HttpGet("/api/presidents/Welcome", Name = "Welcome")]
-        public string Welcome()
-        {
-            return "This is the Welcome action method...";
-        }
-
-
 
         // GET: api/values
 
         // All Names
-        [HttpGet("/api/presidents/allNames", Name = "allNames")]
+        [HttpGet]
         public IList<President> AllPresidents()
         {
             return presidentList;
